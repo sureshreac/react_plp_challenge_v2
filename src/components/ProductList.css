@@ -1,0 +1,23 @@
+.product__data {
+    display: grid;
+}
+
+.product_title {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.product__list {
+    display: flex;
+}
+
+.card-container-custom {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    
+}

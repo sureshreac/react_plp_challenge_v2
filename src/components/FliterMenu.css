@@ -1,0 +1,17 @@
+.filter_text{
+    width: 100%;
+    margin-left: 25px;
+    margin-top: 20px;
+    
+}
+.filter__heading{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.FilterGender__body{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    margin-right:5px;
+}
